@@ -56,7 +56,7 @@ async def group_filters(client, message):
                  InlineKeyboardButton("Close 🗑️", callback_data="close")]
             )
             buttons.append(
-                [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                [InlineKeyboardButton(text="File Sended In Pm", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
             )
 
             imdb=await get_poster(search)
