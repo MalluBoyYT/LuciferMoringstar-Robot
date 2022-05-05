@@ -2,24 +2,24 @@ class LuciferMoringstar(object):
 
     DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure I'm an Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
 
-    HELP_MSG = """**Help Veno Monuse 🤣**"""
+    HELP_MSG = """**എന്ന മോനൂസെ Help വേണോ 😜**"""
 
     ABOUT_MSG = """
-🤖 My Name [{bot_name}](t.me/{bot_username})
+🤖 My Name [{Beast}](t.me/{BeastV3Bot})
 
 🧑 My Dev : [Bea_s_t2](t.me/Bea_s_t2)
 
-🧑 My Creator : {dev_name}
+🧑 My Creator : {Bea_s_t2}
 
 📦 My Source : [Click Here](https://t.me/no_sourse_code)
 
 📺 My Channel : [Ckick Here](https://t.me/MalluHubTG)
 
-🗃️ My Library : [Pyrogram]
+🗃️ My Library : [Pyrogram]()
 
-🖇️ My Language : [Python3]
+🖇️ My Language : [Python3]()
 
-🗃️ My Database : [Mongodb]
+🗃️ My Database : [Mongodb]()
 
 🗳️ My Server : [Heroku](www.heroku.com)
 
