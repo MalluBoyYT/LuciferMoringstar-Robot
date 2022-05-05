@@ -21,11 +21,11 @@ class LuciferMoringstar(object):
 
 🗃️ My Database : [Mongodb]
 
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
+🗳️ My Server : [Heroku](www.heroku.com)
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
+🏷️ My Channel : [MalluHubTG](t.me/MalluHubTG)
 
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+🗣️ My Group : [Channel](.me/MalluHubGroup)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
