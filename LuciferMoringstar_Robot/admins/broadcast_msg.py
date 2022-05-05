@@ -1,5 +1,5 @@
-# (c) [Muhammed] @PR0FESS0R-99
-# (s) @Mo_Tech_YT , @Mo_Tech_Group, @MT_Botz
+# (c) [Ajay] @PR0FESS0R-99
+# (s) @Crude_X , @MalluHubTG, @MalluHubTG
 # Copyright permission under MIT License
 # All rights reserved by PR0FESS0R-99
 
