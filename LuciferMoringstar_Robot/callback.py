@@ -65,7 +65,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                      InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                    [InlineKeyboardButton(text="File Sended In P", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -92,7 +92,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                      InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                    [InlineKeyboardButton(text="File Sended In Pm", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
                 )
                 await query.edit_message_reply_markup( 
                     reply_markup=InlineKeyboardMarkup(buttons)
@@ -109,7 +109,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                      InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                    [InlineKeyboardButton(text="File Sended In Pm", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -221,7 +221,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                         file_id=file_id,
                         caption=caption
                         )
-                    await query.answer('🤖 Check PM, I have Sent Files In Pm 🤖',show_alert = True)
+                    await query.answer(' Check PM, I have Sent Files In Pm ',show_alert = True)
             except UserIsBlocked:
                 await query.answer('Unblock the bot mahn !',show_alert = True)
             except PeerIdInvalid:
