@@ -4,7 +4,7 @@ class module(object):
 
 Auto Filter is the feature to filter and save all the files automatically from channel to group. This mostly used in group to get movies with name
  
-**[🥀 Maintained By {team}]({team_link})**"""
+**[🥀 Maintained By {team}]({https://t.me/MalluHubTG})**"""
 
     ban_text = """
 🧑‍🚒 <u>𝐁𝐚𝐧 𝐔𝐬𝐞𝐫</u> :-
@@ -16,7 +16,7 @@ Some People Need To Be Publicly Banned: Spammers, Annkyances, Or Just Trolls...!
 ★ /ban - Ban a User
 ★ /unban - Unban A User
 
-**[🥀 Maintained By {team}]({team_link})**"""
+**[🥀 Maintained By {team}]({https://t.me/MalluHubTG})**"""
 
     mute_text = """
 🤐 <u>𝐌𝐮𝐭𝐞 𝐔𝐬𝐞𝐫</u> :-
@@ -28,7 +28,9 @@ Some People Need To Be Publicly Muted: Spammers, Annkyances, Or Just Trolls...! 
 ★ /mute - Mute a User
 ★ /unmute - Unmute A User
 
-**[🥀 Maintained By {team}]({team_link})**"""
+**[🥀 Maintained By {https://t.me/MalluHubTG}]({team_
+
+})**"""
 
     pin_message = """
 📌 <u>𝐏𝐢𝐧 𝐌𝐞𝐬𝐬𝐚𝐠𝐞</u> :-
@@ -40,7 +42,7 @@ All The Pin Related Commands Can Be Found Here; Keep Your Chat Up To Date On The
 ★ /pin - Pin The Message You Replied To Message To Send A Notification To Group Members
 ★ /unpin - Unpin The Current Pinned Message. If Used As A Reply, Unpins The Replied To Message
 
-**[🥀 Maintained By {team}]({team_link})**"""
+**[🥀 Maintained By {team}]({https://t.me/MalluHubGroup})**"""
 
 
 
